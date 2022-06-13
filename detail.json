@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "MS",
+        "last_name": "DHONI",
+        "employe_id": "A2022:101",
+        "city": "CHENNAI",
+        "experience": 15,
+        "ctc": 15000000,
+        "age": 40,
+        "contact_no": 5648970123
+    },
+    {
+        "first_name": "ROHIT",
+        "last_name": "SHARMA",
+        "employe_id": "A2022:102",
+        "city": "MUMBAI",
+        "experience": 12,
+        "ctc": 12000000,
+        "age": 36,
+        "contact_no": 9873021456
+    },
+    {
+        "first_name": "VIRAT",
+        "last_name": "KHOLI",
+        "employe_id": "A2022:103",
+        "city": "BANGALORE",
+        "experience": 12,
+        "ctc": 12000000,
+        "age": 35,
+        "contact_no": 3602514789
+    }
+]
